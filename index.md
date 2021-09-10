@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "A Blog That Says Things"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is the content I will be showing on this website.
